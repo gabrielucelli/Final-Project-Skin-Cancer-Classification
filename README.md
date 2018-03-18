@@ -1,9 +1,7 @@
-Código utilizado para fazer o Projeto de Graduação: Classificação de câncer de pele com uso de Redes Neurais Convolutivas
+Code used to make the Graduation Project: Classification of skin cancer using Convolutive Neural Networks
 
-Os principais scripts e programas utilizados para realização do projeto, em breve será adicionado mais informações sobre a base de dados.
+The main scripts and programs used to carry out the project will soon be added more information about the database.
 
-O código da aplicação Android ta disponível no repositorio separado:
+### The Android application code is available in the separate repository:
 
 https://github.com/gabrielucelli/Melanoma-Detector
-
-
